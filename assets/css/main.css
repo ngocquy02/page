@@ -111,7 +111,7 @@
 		}
 
 		.icon > .label {
-			display: block;
+			display: none;
 		}
 
 /* Wrapper */
@@ -666,7 +666,7 @@
 					}
 
 				#header nav a span {
-					display: block;
+					display: none;
 				}
 
 /* Footer */
